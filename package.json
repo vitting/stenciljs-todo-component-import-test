@@ -1,0 +1,16 @@
+{
+  "name": "ghost-todo-stenciljs-webcomponent-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel serve index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ghost-todo-stenciljs-webcomponent": "0.0.2",
+    "parcel": "^1.12.4"
+  }
+}
